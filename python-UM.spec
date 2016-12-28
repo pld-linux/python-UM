@@ -1,6 +1,6 @@
 # TODO
 # - rename .spec to python3 if python2 is never to be supported
-%define		rel		4
+%define		rel		5
 %define		snap	20150608
 %define 	module	UM
 Summary:	Framework for building 3D printing related applications
